@@ -1,1 +1,1 @@
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=6000&lines=%F0%9F%91%8B+I%27m+Hey+There!+Ashish'></h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=5000&color=white&lines=%F0%9F%91%8BHey+There!++I%27m+Ashish'></h1>
