@@ -1,6 +1,6 @@
 <h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=5000&color=FFFFFFFF&lines=%F0%9F%91%8BHey+There!++I%27m+Ashish'></h1>
 💫 About Me:<br>
-🎓 A passionate Computer Science Engineering student at Amal Jyothi College of Engineering.<br>🚀 Exploring the world of technology, design, and innovation.<br>🛠️ Actively building projects that bridge design and technology.<br>🎯 Active member of communities like ACM AJCE and NSS AJCE.<br>✨ Organized multiple events under ACM AJCE, helping foster tech learning among peers.<br>🧠 Believe in continuous learning, creativity, and collaboration.<br>
+🎓 A passionate Computer Science Engineering student at Amal Jyothi College of Engineering.<br>🚀 Exploring the world of technology, design, and innovation.<br>🛠️ Actively building projects that bridge design and technology.<br>🧠 Believe in continuous learning, creativity, and collaboration.<br>
 
 
 ## 🌐 Socials:
