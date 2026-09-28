@@ -1,6 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&color=00F7FF&lines=Hey+There!+👋;I'm+Ashish+Shabu;Software+Developer;Always+Learning+and+Building" />
-</h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=80&center=true&vCenter=true&width=1600&height=140&duration=5000&color=FFFFFFFF&lines=%F0%9F%91%8BHey+There!++I%27m+Ashish'></h1>
+
 
 <h3 align="center">Software Developer | CSE Graduate</h3>
 
@@ -16,7 +15,6 @@
 - 💻 Interested in software development and building useful, scalable applications.
 - 🛠️ Hands-on experience with Python, JavaScript, REST APIs, and databases.
 - 🚀 Worked on projects involving real-time systems, API integrations, and computer vision.
-- 🤝 Former Vice Chair of the ACM AJCE Student Chapter.
 - 🌱 Always exploring new technologies and improving my problem-solving skills.
 
 ---
