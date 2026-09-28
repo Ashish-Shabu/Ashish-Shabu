@@ -67,7 +67,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -92,7 +92,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ashish-Shabu&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
+-->
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to explore my repositories.</i>
 </p>
